@@ -3,12 +3,12 @@
 We are Cistec AG. We develop KISIM, the leading clinical information system in Switzerland.
 
 Official Website: [cistec.com](https://www.cistec.com/)
+
 Open Jobs: [cistec.com/jobs](https://www.cistec.com/jobs/)
 
 ## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
@@ -36,7 +36,6 @@ Open Jobs: [cistec.com/jobs](https://www.cistec.com/jobs/)
   <a href="https://about.gitlab.com/">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
-</div>
 
 
 <!--
