@@ -9,6 +9,8 @@ Open Jobs: [cistec.com/jobs](https://www.cistec.com/jobs/)
 
 A little excerpt:
 
+<div>
+
 <a href="https://www.typescriptlang.org/">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </a>
@@ -37,6 +39,39 @@ A little excerpt:
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </a>
 
+</div>
+
+<div>
+
+<a href="https://www.java.com/">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</a>
+
+<a href="https://quarkus.io/">
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
+</a>
+
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</a>
+
+<a href="https://www.hl7.org/fhir/">
+  <img src="https://img.shields.io/badge/FHIR-EF3B2D?style=for-the-badge&logo=hl7&logoColor=white" alt="FHIR" />
+</a>
+
+<a href="https://www.openehr.org/">
+  <img src="https://img.shields.io/badge/OpenEHR-8E75B2?style=for-the-badge&logo=openehr&logoColor=white" alt="OpenEHR" />
+</a>
+
+<a href="https://www.oracle.com/">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</a>
+
+<a href="https://www.postgresql.org/">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</a>
+  
+</div>
 
 <!--
 
